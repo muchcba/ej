@@ -1,0 +1,7 @@
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz1.exe
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz1.pdb
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\bin\Debug\EjemploMatriz1.exe
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\bin\Debug\EjemploMatriz1.pdb
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.frmListaAlumnos.resources
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.Properties.Resources.resources
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\bin\Debug\EjemploMatriz1.exe
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\bin\Debug\EjemploMatriz1.pdb
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.frmListaAlumnos.resources
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.Properties.Resources.resources
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.csproj.GenerateResource.Cache
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.exe
+C:\Users\Sergio-Algorry\AppData\Local\Temporary Projects\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.pdb
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.exe
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.pdb
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\bin\Debug\EjemploMatriz1.exe
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\bin\Debug\EjemploMatriz1.pdb
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.frmListaAlumnos.resources
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.Properties.Resources.resources
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz1\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.csproj.GenerateResource.Cache
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.exe
+D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz1\obj\x86\Debug\EjemploMatriz1.pdb
