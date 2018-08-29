@@ -40,24 +40,27 @@
             // 
             // txtAlumno
             // 
-            this.txtAlumno.Location = new System.Drawing.Point(13, 13);
+            this.txtAlumno.Location = new System.Drawing.Point(17, 16);
+            this.txtAlumno.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtAlumno.Name = "txtAlumno";
-            this.txtAlumno.Size = new System.Drawing.Size(178, 20);
+            this.txtAlumno.Size = new System.Drawing.Size(236, 22);
             this.txtAlumno.TabIndex = 0;
             // 
             // lblSalida
             // 
             this.lblSalida.AutoSize = true;
-            this.lblSalida.Location = new System.Drawing.Point(12, 49);
+            this.lblSalida.Location = new System.Drawing.Point(16, 60);
+            this.lblSalida.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSalida.Name = "lblSalida";
-            this.lblSalida.Size = new System.Drawing.Size(0, 13);
+            this.lblSalida.Size = new System.Drawing.Size(0, 17);
             this.lblSalida.TabIndex = 1;
             // 
             // btAceptar
             // 
-            this.btAceptar.Location = new System.Drawing.Point(197, 10);
+            this.btAceptar.Location = new System.Drawing.Point(263, 12);
+            this.btAceptar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btAceptar.Name = "btAceptar";
-            this.btAceptar.Size = new System.Drawing.Size(115, 23);
+            this.btAceptar.Size = new System.Drawing.Size(153, 28);
             this.btAceptar.TabIndex = 2;
             this.btAceptar.Text = "Cargar Alumnos";
             this.btAceptar.UseVisualStyleBackColor = true;
@@ -65,9 +68,10 @@
             // 
             // btBuscarNom
             // 
-            this.btBuscarNom.Location = new System.Drawing.Point(197, 40);
+            this.btBuscarNom.Location = new System.Drawing.Point(263, 49);
+            this.btBuscarNom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btBuscarNom.Name = "btBuscarNom";
-            this.btBuscarNom.Size = new System.Drawing.Size(115, 23);
+            this.btBuscarNom.Size = new System.Drawing.Size(153, 28);
             this.btBuscarNom.TabIndex = 3;
             this.btBuscarNom.Text = "Buscar por Nombre";
             this.btBuscarNom.UseVisualStyleBackColor = true;
@@ -75,18 +79,21 @@
             // 
             // btBuscarPos
             // 
-            this.btBuscarPos.Location = new System.Drawing.Point(197, 69);
+            this.btBuscarPos.Location = new System.Drawing.Point(263, 85);
+            this.btBuscarPos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btBuscarPos.Name = "btBuscarPos";
-            this.btBuscarPos.Size = new System.Drawing.Size(115, 23);
+            this.btBuscarPos.Size = new System.Drawing.Size(153, 28);
             this.btBuscarPos.TabIndex = 4;
             this.btBuscarPos.Text = "Buscar por Posicion";
             this.btBuscarPos.UseVisualStyleBackColor = true;
+            this.btBuscarPos.Click += new System.EventHandler(this.btBuscarPos_Click);
             // 
             // btCargaMateria
             // 
-            this.btCargaMateria.Location = new System.Drawing.Point(196, 144);
+            this.btCargaMateria.Location = new System.Drawing.Point(261, 177);
+            this.btCargaMateria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btCargaMateria.Name = "btCargaMateria";
-            this.btCargaMateria.Size = new System.Drawing.Size(115, 23);
+            this.btCargaMateria.Size = new System.Drawing.Size(153, 28);
             this.btCargaMateria.TabIndex = 6;
             this.btCargaMateria.Text = "Cargar Materia";
             this.btCargaMateria.UseVisualStyleBackColor = true;
@@ -94,25 +101,27 @@
             // 
             // txtMateria
             // 
-            this.txtMateria.Location = new System.Drawing.Point(12, 147);
+            this.txtMateria.Location = new System.Drawing.Point(16, 181);
+            this.txtMateria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtMateria.Name = "txtMateria";
-            this.txtMateria.Size = new System.Drawing.Size(178, 20);
+            this.txtMateria.Size = new System.Drawing.Size(236, 22);
             this.txtMateria.TabIndex = 5;
             // 
             // lblMateria
             // 
             this.lblMateria.AutoSize = true;
-            this.lblMateria.Location = new System.Drawing.Point(12, 182);
+            this.lblMateria.Location = new System.Drawing.Point(16, 224);
+            this.lblMateria.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblMateria.Name = "lblMateria";
-            this.lblMateria.Size = new System.Drawing.Size(0, 13);
+            this.lblMateria.Size = new System.Drawing.Size(0, 17);
             this.lblMateria.TabIndex = 7;
             // 
             // frmListaAlumnos
             // 
             this.AcceptButton = this.btAceptar;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(317, 261);
+            this.ClientSize = new System.Drawing.Size(423, 321);
             this.Controls.Add(this.lblMateria);
             this.Controls.Add(this.btCargaMateria);
             this.Controls.Add(this.txtMateria);
@@ -121,6 +130,7 @@
             this.Controls.Add(this.btAceptar);
             this.Controls.Add(this.lblSalida);
             this.Controls.Add(this.txtAlumno);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmListaAlumnos";
             this.Text = "Lista Alumnos";
             this.ResumeLayout(false);

@@ -82,6 +82,11 @@ namespace EjemploMatriz2
             return mREs;
         }
 
+        public string buscarPorPosicion(int i)
+        {
+            return Lista[i];
+        }
+
         /// <summary>
         /// redimensiona la lista para cuando se necesita un lugar para cargar un  nuevo elemento 
         /// </summary>

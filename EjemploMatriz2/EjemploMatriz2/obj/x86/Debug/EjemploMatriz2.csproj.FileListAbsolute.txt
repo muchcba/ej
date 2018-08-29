@@ -5,3 +5,12 @@ D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\bin\Debug\
 D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.frmListaAlumnos.resources
 D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.Properties.Resources.resources
 D:\ITSC\Programación I\Alumnos\2018\C#\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.csproj.GenerateResource.Cache
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\bin\Debug\EjemploMatriz1.exe
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\bin\Debug\EjemploMatriz1.pdb
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.csprojAssemblyReference.cache
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.frmListaAlumnos.resources
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.Properties.Resources.resources
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.csproj.GenerateResource.cache
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz2.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz1.exe
+C:\Users\Ezequiel\source\repos\ej\EjemploMatriz2\EjemploMatriz2\obj\x86\Debug\EjemploMatriz1.pdb

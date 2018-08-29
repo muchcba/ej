@@ -49,5 +49,18 @@ namespace EjemploMatriz2
         {
             lblMateria.Text = ListaMateria.CargarLista(txtMateria.Text);
         }
+
+        private void btBuscarPos_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                lblSalida.Text = "El nombre en la posicion " + int.Parse(txtAlumno.Text) + ": es "+Environment.NewLine
+                    + ListaAlumno.buscarPorPosicion((int.Parse(txtAlumno.Text)-1));
+            }
+            catch
+            {
+                lblSalida.Text = "no hay alumno en la posicion: " + txtAlumno.Text;
+            }
+        }
     }
 }
